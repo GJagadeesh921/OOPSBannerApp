@@ -1,3 +1,7 @@
+/**
+ * OOPSBannerApp UC5 – Inline Array Initialization
+ */
+
 public class OOPSBannerApp {
 
     public static void main(String[] args) {
